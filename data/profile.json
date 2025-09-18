@@ -1,0 +1,24 @@
+{
+  "name": "Nguyen Phu Vinh",
+  "title": "Master's Student in Computer Science",
+  "description": "Pursuing a Master's Degree in Computer Science at Uppsala University, Sweden. Specialized in Machine Learning, Natural Language Processing, Large Language Models, and Multimodal Systems.",
+  "profileImage": "assets/images/profile.jpg",
+  "about": "",
+  "stats": {
+    "publications": 6,
+    "projects": 7,
+    "experience": 3
+  },
+  "contact": {
+    "email": "phuvinhnguyen812002@gmail.com",
+    "location": "Uppsala, Sweden",
+    "institution": "Uppsala University",
+    "formEndpoint": ""
+  },
+  "social": {
+    "github": "https://github.com/phuvinhnguyen",
+    "linkedin": "https://www.linkedin.com/in/vinh-nguyen-b0874b251/",
+    "facebook": "https://www.facebook.com/phuvinh.nguyen.75873/",
+    "email": "phuvinhnguyen812002@gmail.com"
+  }
+}

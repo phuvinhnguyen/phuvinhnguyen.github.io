@@ -1,0 +1,37 @@
+[
+  {
+    "date": "August 2025",
+    "title": "Paper accepted at EMNLP 2025",
+    "description": "Our paper 'SilVar' has been accepted for publication at main EMNLP 2025."
+  },
+  {
+    "date": "December 2024",
+    "title": "Started research collaboration with HysonLab - UAB and Knovel",
+    "description": "Beginning collaboration with Prof. Hy Truong Son (Alabama University) and Dr. Pham Tan Hanh (Harvard University) on Explainable AI & Multimodal Systems Research."
+  },
+  {
+    "date": "September 2024",
+    "title": "Started Master's program at Uppsala University",
+    "description": "Began pursuing Master's degree in Computer Science at Uppsala University, Sweden, focusing on Artificial Intelligence, Machine Learning, and Data Science."
+  },
+  {
+    "date": "June 2024",
+    "title": "Paper accepted at PACLIC 38",
+    "description": "Our paper, Advancing Vietnamese Information Retrieval with Learning Objective and Benchmark, was accepted for oral presentation at PACLIC 38."
+  },
+  {
+    "date": "June 2024",
+    "title": "Paper accepted at SRW-ACL 2024",
+    "description": "Our work, ViMedAQA, was accepted for at SRW-ACL 2024."
+  },
+  {
+    "date": "April 2024",
+    "title": "Top 5 Finalist at AIC2024",
+    "description": "Our work, Perceiver, achieved Top 5 finalist position in AIC2024 Track 2: Multi-view-video Description Generation, achieving performance comparable to 14B-32B models with just 1.5B parameters."
+  },
+  {
+    "date": "March 2024",
+    "title": "Paper accepted at NAACL 2024",
+    "description": "Our paper, ViGLUE, was accepted at findings NAACL 2024."
+  }
+]

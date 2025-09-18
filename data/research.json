@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Large Language Models",
+    "description": "Most of my research focuses on large language models and their potential applications."
+  },
+  {
+    "title": "Agentic AI",
+    "description": "I am interested in developing agentic AI systems that can autonomously perform complex tasks, especially in data analysis, research, and education."
+  },
+  {
+    "title": "Multimodal Systems",
+    "description": "I focus on enhancing language models by integrating multiple modalities, enabling them to interpret, analyze, and generate different types of data."
+  },
+  {
+    "title": "Efficient Language Models",
+    "description": "I am exploring how to make language models more efficient, scalable, cost-effective, and accurate."
+  },
+  {
+    "title": "Explainable AI",
+    "description": "My research questions include understanding how deep learning models work, how to automatically analyze their behavior, and how to apply that knowledge effectively."
+  },
+  {
+    "title": "Evaluation",
+    "description": "I view evaluation as an opportunity to better understand models. It should provide insights and recommendations for improvement, not just performance comparisons."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "SilVar: Speech Driven Multimodal Model for Reasoning Visual Question Answering and Object Localization",
+    "authors": "Tan-Hanh Pham, Hoang-Nam Le, Phu-Vinh Nguyen, Chris Ngo, Truong-Son Hy",
+    "venue": "EMNLP 2025",
+    "selected": true,
+    "topics": ["Multimodal Systems", "Vision-Language Models", "Large Language Models"],
+    "links": {
+      "pdf": "https://arxiv.org/abs/2412.16771"
+    }
+  },
+  {
+    "title": "A Novel Framework for Automated Explain Vision Model Using Vision-Language Models",
+    "authors": "Phu-Vinh Nguyen, Tan-Hanh Pham, Chris Ngo, Truong-Son Hy",
+    "venue": "Under Review (2025)",
+    "selected": false,
+    "topics": ["Explainable AI", "Vision-Language Models", "Evaluation"],
+    "links": {
+      "pdf": "https://arxiv.org/abs/2508.20227"
+    }
+  },
+  {
+    "title": "Advancing Vietnamese Information Retrieval with Learning Objective and Benchmark",
+    "authors": "Phu-Vinh Nguyen, Minh-Nam Tran, Long Nguyen, Dien Dinh",
+    "venue": "PACLIC 38 (2024)",
+    "selected": true,
+    "topics": ["Information Retrieval", "Efficient Language Models"],
+    "links": {
+      "pdf": "https://arxiv.org/abs/2503.07470"
+    }
+  },
+  {
+    "title": "PerspectiveNet: Multi-View Perception for Dynamic Scene Understanding",
+    "authors": "Phu-Vinh Nguyen, Tan-Hanh Pham",
+    "venue": "AIC2024 - Track 2 (Top 5 Finalist)",
+    "selected": false,
+    "topics": ["Vision-Language Models", "Multimodal Systems"],
+    "links": {
+      "pdf": "https://arxiv.org/abs/2410.16824"
+    }
+  },
+  {
+    "title": "ViGLUE: A Vietnamese General Language Understanding Benchmark and Analysis of Vietnamese Language Models",
+    "authors": "Minh-Nam Tran, Phu-Vinh Nguyen, Long Nguyen, Dien Dinh",
+    "venue": "NAACL 2024",
+    "selected": true,
+    "topics": ["Large Language Models", "Evaluation"],
+    "links": {
+      "pdf": "https://aclanthology.org/2024.findings-naacl.261/"
+    }
+  },
+  {
+    "title": "ViMedAQA: A Vietnamese Medical Abstractive Question-Answering Dataset and Findings of Large Language Model",
+    "authors": "Minh-Nam Tran, Phu-Vinh Nguyen, Long Nguyen, Dien Dinh",
+    "venue": "SRW-ACL 2024",
+    "selected": false,
+    "topics": ["Large Language Models", "Evaluation"],
+    "links": {
+      "pdf": "https://aclanthology.org/2024.acl-srw.31/"
+    }
+  }
+]
