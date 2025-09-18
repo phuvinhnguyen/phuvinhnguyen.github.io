@@ -1,9 +1,11 @@
 <strong style='color:rgb(255, 0, 0); font-size: 1em;'>I am actively seeking PhD positions for Fall 2026 in Computer Science, with a focus on Machine Learning, Natural Language Processing, and Multimodal AI systems.</strong><br><br>
+
 I am currently a Master’s student at 
 <a href="https://www.uu.se/en" target="_blank" rel="noopener noreferrer">Uppsala University</a> 
 and working as a research intern in HySonLab under the supervision of 
 <a href="https://scholars.uab.edu/19454-truongson-hy" target="_blank" rel="noopener noreferrer">Prof. Truong-Son Hy</a> 
 at University of Alabama at Birmingham, collaborating with 
 <a href="https://connects.catalyst.harvard.edu/Profiles/profile/291081325" target="_blank" rel="noopener noreferrer">Dr. Tan-Hanh Pham</a> 
-at Harvard Medical School and Massachusetts General Hospital.<br><br>
+at Harvard Medical School and Massachusetts General Hospital. During my undergraduate years, I was advised by <a href="https://www.clc.hcmus.edu.vn/ddien/" target="_blank" rel="noopener noreferrer">Assoc. Dinh Dien</a> and <a href="https://www.clc.hcmus.edu.vn/ddien/" target="_blank" rel="noopener noreferrer">Dr. Nguyen Hong Buu Long</a>.<br><br>
+
 My primary research interests lie in language models (LMs), multimodal systems, and explainable AI. My long-term goal is to improve the <strong style='color:rgb(203, 103, 27)'>efficiency</strong> and <strong style='color:rgb(203, 103, 27)'>scalability</strong> of language models by <strong style='color:rgb(203, 103, 27)'>observing</strong>, <strong style='color:rgb(203, 103, 27)'>evaluating</strong>, and <strong style='color:rgb(203, 103, 27)'>explaining</strong> their internal mechanisms, thereby developing principled methods for enhancement. I am also motivated by applying LLMs to real-world automation domains, such as <strong style='color:rgb(203, 103, 27)'>research assistance</strong>, <strong style='color:rgb(203, 103, 27)'>software agent</strong>, <strong style='color:rgb(203, 103, 27)'>education</strong>, and complex decision-making, where reliability, fairness, and stability are essential. In addition, I maintain a strong interest in evaluation methodologies that not only measure performance but also provide actionable insights for improving model robustness and interpretability. My most recent work centers on building multimodal and knowledge-augmented LLMs, as well as exploring tools to better understand and optimize their behavior.
